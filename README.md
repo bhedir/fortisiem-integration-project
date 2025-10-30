@@ -13,28 +13,17 @@
 </div>
 ---
 
-## 📘 Overview
+## 📘 Overview & Objectives
 
-This project presents the **study and implementation of Fortinet’s SIEM solution (FortiSIEM)** to improve **network visibility, threat detection, and incident response**.
+This project focuses on the **study and implementation of Fortinet’s SIEM solution (FortiSIEM)** to enhance **network visibility, threat detection, and incident response** within an enterprise environment.  
 
-The deployment integrates:
-- **Nessus Vulnerability Scanner** for proactive vulnerability assessment.  
-- **SMTP Mail Server** for automated alerts and reports.  
+Developed during an engineering internship at **PROLOGIC Tunisie**, the project involved the deployment and configuration of a **FortiSIEM-based monitoring system** that:  
+- Collects and correlates security events from various network sources.  
+- Integrates the **Nessus Vulnerability Scanner** for proactive vulnerability assessment.  
+- Utilizes an **SMTP Mail Server** to deliver automated alerts and security reports in real time.  
 
-> 🧩 The project was completed as part of an engineering internship at **PROLOGIC Tunisie**.
+This implementation demonstrates how FortiSIEM can provide a centralized, intelligent, and responsive approach to managing information security events across complex IT infrastructures.
 
----
-
-## 🏢 Context
-
-### 🎯 Objective
-To design and deploy a **FortiSIEM-based monitoring system** that:
-- Collects and correlates security events from various network sources.
-- Enhances the detection of vulnerabilities through Nessus integration.
-- Sends automated notifications via a mail server.
-
-### 🧭 Company
-**PROLOGIC Tunisie** — a leading IT solutions provider with expertise in infrastructure, cybersecurity, and managed services.
 
 ---
 

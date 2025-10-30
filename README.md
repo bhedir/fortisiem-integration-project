@@ -4,6 +4,8 @@
 ![License](https://img.shields.io/badge/License-Academic-blue?style=for-the-badge)
 ![Technology](https://img.shields.io/badge/Fortinet-FortiSIEM-red?style=for-the-badge)
 ![Integration](https://img.shields.io/badge/Integration-Nessus%20%7C%20Mail%20Server-orange?style=for-the-badge)
+📘 **Author:** *Hadir Ben Arbia*  
+📅 **Date:** May 2023  
 
 ---
 

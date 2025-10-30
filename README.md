@@ -1,5 +1,4 @@
 # 🛡️ Study and Implementation of the Fortinet SIEM Solution  
-**with Nessus Integration and Mail Server Configuration**
 
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Academic-blue?style=for-the-badge)
@@ -52,17 +51,12 @@ The implemented architecture consists of multiple virtualized components hosted 
 
 ### 🖼️ Architecture Diagram (Placeholder)
 
-[ User / Devices / Network Logs ]
-↓
-[ FortiSIEM Collector ]
-↓
-[ FortiSIEM Worker ]
-↓
-[ FortiSIEM Supervisor ]
-↙ ↘
-[ Nessus Scanner ] [ Mail Server ]
+## 🌐 Network Topology
 
-> *(You can replace this with an image file: `/assets/architecture.png`)*
+<p align="center">
+  <img src="assets/architecture.png" alt="Network Topology " width="800">
+</p>
+
 
 ---
 

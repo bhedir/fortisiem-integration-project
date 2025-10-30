@@ -141,7 +141,7 @@ The implemented architecture consists of multiple virtualized components hosted 
 🏢 Internship at **PROLOGIC Tunisie**
 
 📧 [belarbiahedir@gmail.com](mailto:belarbiahedir@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com](https://www.linkedin.com/in/hadir-ben-arbia/)
+🔗 (https://www.linkedin.com](https://www.linkedin.com/in/hadir-ben-arbia/)
 
 ---
 
@@ -151,13 +151,6 @@ The implemented architecture consists of multiple virtualized components hosted 
 - [Nessus Vulnerability Scanner Guide](https://www.tenable.com/products/nessus)  
 - [FortiSIEM Notification Settings](https://help.fortinet.com/fsiem/5-1-0/Online-Help/HTML5_Help/Notification_Settings.htm)  
 - [PROLOGIC Tunisie](https://www.prologic.com.tn/)
-
----
-
-## 🛠️ License
-
-This repository is shared under the **Academic License**.  
-Usage and distribution are permitted for **educational and research purposes only**.
 
 ---
 

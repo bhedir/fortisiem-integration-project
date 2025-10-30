@@ -1,12 +1,16 @@
 # 🛡️ Study and Implementation of the Fortinet SIEM Solution  
 
+
+ 
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Academic-blue?style=for-the-badge)
 ![Technology](https://img.shields.io/badge/Fortinet-FortiSIEM-red?style=for-the-badge)
 ![Integration](https://img.shields.io/badge/Integration-Nessus%20%7C%20Mail%20Server-orange?style=for-the-badge)
+<div align="center">
+  
 📘 **Author:** *Hadir Ben Arbia*  
 📅 **Date:** May 2023  
-
+</div>
 ---
 
 ## 📘 Overview
